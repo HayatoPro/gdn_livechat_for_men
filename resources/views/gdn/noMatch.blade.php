@@ -16,9 +16,9 @@
         <div class="big-body">
             <div class="body-top">
                 <h1><span>AVに飽きた人必見!!!<br>ガチ素人の『裏配信』が今熱い！</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
+                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
                 <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
@@ -53,9 +53,9 @@
                     <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
                     <div class="center">
-                        <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                        <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>
+                    <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>
                     <br>
                 </div>
             </div>
