@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app', function () {
-    // return view('gdn.check'); //提出用
-    return view('gdn.noMatch'); //獲得用(1)
+    return view('gdn.check'); //提出用
+    // return view('gdn.noMatch'); //獲得用(1)
 });
 
 // LP確認用
