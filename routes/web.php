@@ -13,14 +13,14 @@
 // LP獲得用
 Route::get('app', function () {
     return view('gdn.check'); //提出用
-    // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
-    
     // return view('gdn.noMatch'); //獲得用(1)
+    
+    // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
+    return view('gdn.noMatch'); //獲得用(1)
     
-    // return view('gdn.noMatch'); //獲得用(1)
+    // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
 });

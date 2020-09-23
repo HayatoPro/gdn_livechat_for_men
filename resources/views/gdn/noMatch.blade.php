@@ -14,9 +14,10 @@
         </header>
         
         <div class="big-body">
+            <img src="{{ asset('image/lp_adult_headline.jpg') }}" class="wide">
             <div class="body-top">
                 <h1><span>AVに飽きた人必見!!!<br>ガチ素人の『裏配信』が今熱い！</span></h1>
-                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
+                <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
                 <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
                 <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
@@ -55,7 +56,7 @@
                     <div class="center">
                         <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>
+                    <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>-->
                     <br>
                 </div>
             </div>
