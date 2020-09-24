@@ -18,6 +18,12 @@ Route::get('app', function () {
     // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
 });
 
+// SNS集客用
+Route::get('live', function () {
+    return redirect('https://a-trade.jp/redirect/famu?media=G16531'); //FAMU - Aトレード
+});
+
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('gdn.noMatch'); //獲得用(1)
