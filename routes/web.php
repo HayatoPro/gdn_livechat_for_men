@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app', function () {
+Route::get('part-time', function () {
     return view('gdn.check'); //提出用
     // return view('gdn.job'); //獲得用(2)
     
