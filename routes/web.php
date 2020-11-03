@@ -12,8 +12,9 @@
 */
 // LP獲得用
 Route::get('part-time', function () {
-    return view('gdn.check'); //提出用
-    // return redirect('https://a-trade.jp/redirect/giftchat?media=G16531'); //ギフトチャット - 直ストア遷移
+    // return view('gdn.check'); //提出用
+    return redirect('https://a-trade.jp/redirect/giftchat?media=G16531'); //ギフトチャット - 直ストア遷移
+    
     // return view('gdn.job'); //獲得用(2)
     
     // return view('gdn.noMatch'); //獲得用(1)
