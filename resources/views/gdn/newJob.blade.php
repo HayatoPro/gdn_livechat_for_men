@@ -18,10 +18,11 @@
         <!--<br>-->
         <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
         <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
-        <h1>有名雑誌 & 女性人気インフルエンサーも紹介!?<br><span class="red">巷で話題の在宅ワーク</span>はコチラ!</h1>
+        <h1>有名雑誌 & 人気インフルエンサーも紹介!?<br><span class="red">巷で話題の在宅ワーク</span>はコチラ!</h1>
         <div class="button">
             <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-little-rich">専用アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <p>※詳細は<span class="red">アプリ内をCHECK!</span></p>
+        <br>
     </body>
 </html>
