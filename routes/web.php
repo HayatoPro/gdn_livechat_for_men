@@ -21,6 +21,9 @@ Route::get('part-time', function () {
     // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
 });
 
+//OS判定
+Route::get('os', 'AdController@os');
+
 // SNS集客用
 Route::get('live', function () {
     return redirect('https://a-trade.jp/redirect/famu?media=G16531'); //FAMU - Aトレード

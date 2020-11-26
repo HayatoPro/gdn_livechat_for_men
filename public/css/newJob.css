@@ -4,8 +4,12 @@ body {
     text-align: center;
 }
 
-img {
+.wide {
   width: 100%;
+}
+
+.small {
+  width: 50%;
 }
 
 .img1 {
