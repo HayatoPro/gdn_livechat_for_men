@@ -11,7 +11,6 @@
     <body>
         <img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">
         <h1>見つけたあなたはラッキー!?<br><span class="red">話題の在宅ワーク</span>で、<br>空いた時間をお金に換えよう!</h1>
-        <img src="{{ asset('image/unicorn.jpg') }}" class="small">
         <div class="button">
             <a href="./os" target="_blank" class="btn-square-little-rich">専用アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
@@ -20,7 +19,6 @@
         <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
         <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
         <h1>有名雑誌 & 人気インフルエンサーも紹介!?<br><span class="red">巷で話題の在宅ワーク</span>はコチラ!</h1>
-        <img src="{{ asset('image/unicorn.jpg') }}" class="small">
         <div class="button">
             <a href="./os" target="_blank" class="btn-square-little-rich">専用アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
