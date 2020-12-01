@@ -9,7 +9,8 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">
+        <!--<img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">-->
+        <a href="./os" target="_blank"><img src="https://trading-ad.net/a-trade/banner/berry/02/01_600x500.png" class="wide"></a>
         <h1>見つけたあなたはラッキー!?<br><span class="red">話題のSNSバイト</span>で、<br>空いた時間をお金に換えよう!</h1>
         <div class="button">
             <a href="./os" target="_blank" class="btn-square-little-rich">お仕事詳細はコチラ <i class="fas fa-chevron-circle-right"></i></a>
