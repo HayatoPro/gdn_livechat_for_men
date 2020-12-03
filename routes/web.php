@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('part-time', function () {
     return view('gdn.check'); //提出用
-    // return view('gdn.newJob'); //獲得用(3)
+    // return view('gdn.newPopo'); //獲得用(4)
     
+    // return view('gdn.newJob'); //獲得用(3)
     // return view('gdn.job'); //獲得用(2)
     // return redirect('https://a-trade.jp/redirect/giftchat?media=G16531'); //ギフトチャット - 直ストア遷移
     // return view('gdn.noMatch'); //獲得用(1)
@@ -32,8 +33,9 @@ Route::get('live', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('gdn.newJob'); //獲得用(3)
+    return view('gdn.newPopo'); //獲得用(4)
     
+    // return view('gdn.newJob'); //獲得用(3)
     // return view('gdn.job'); //獲得用(2)
     // return view('gdn.noMatch'); //獲得用(1)
     // return redirect('https://a-trade.jp/redirect/elephantlive-web?media=G16531'); //エレファントライブLP - 直遷移
