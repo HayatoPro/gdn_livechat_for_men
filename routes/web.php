@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('part-time', function () {
+Route::get('p-time', function () {
     return view('gdn.check'); //提出用
     // return view('gdn.newPopo'); //獲得用(4)
     
