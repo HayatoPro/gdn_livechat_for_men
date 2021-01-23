@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('p-time', function () {
-    return view('gdn.check'); //提出用
-    // return view('gdn.lineJob'); //獲得用(5) - LINE@誘導
+    // return view('gdn.check'); //提出用
+    return view('gdn.lineJob'); //獲得用(5) - LINE@誘導
     // return view('gdn.newPopo'); //獲得用(4)
     
     // return view('gdn.newJob'); //獲得用(3)
