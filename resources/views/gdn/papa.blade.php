@@ -11,7 +11,7 @@
     <body>
         <img src="{{ asset('image/pp_2.jpg') }}"></img>
         <!--<h1>遂に解禁された<span class="red">出会い系でのパパ活</span>利用<br>ライバルが少ないうちにパパをGET?!</h1>-->
-        <h1>遂に解禁された<span class="red">新情報とは!?</span><br>ライバルが少ないうちにパパをGET?!</h1>
+        <h1>遂に解禁された新情報とは!?<br><span class="red">『時給１万円〜』</span>も夢じゃない?!</h1>
         <div class="button">
             <a href="https://lin.ee/nvxfLzP" target="_blank" class="btn-square-little-rich">『公式LINE』で情報GET <i class="fas fa-chevron-circle-right"></i></a>
         </div>
