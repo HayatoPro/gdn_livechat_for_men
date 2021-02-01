@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('new', function () {
-    // return view('gdn.check'); //提出用
-    return view('gdn.papa'); //獲得用(6) - パパ活
+    return view('gdn.check'); //提出用
+    // return view('gdn.papa'); //獲得用(6) - パパ活
     
     // return redirect('https://a-trade.jp/redirect/berry?media=G16531'); //ベリー - Aトレード
     // return view('gdn.newPopo'); //獲得用(4)
