@@ -10,18 +10,18 @@
     </head>
     <body>
         <header>
-            <video src="{{ asset('image/lp_top.mp4') }}" loop autoplay muted playsinline></video>
+            <a href="./os" target="_blank"><video src="{{ asset('image/lp_top.mp4') }}" loop autoplay muted playsinline></video></a>
         </header>
         
         <div class="big-body">
             <!--<img src="{{ asset('image/lp_adult_headline.jpg') }}" class="wide">-->
             <div class="body-top">
-                <h1><span>【期間限定】無料クーポン配布(下部)！<br><br>ガチ素人の『裏ライブ』が今熱い！</span></h1>
+                <h1><span>【期間限定】<br>無料クーポン配布(下部)<br><br>ガチ素人の『裏ライブ』が今熱い！？</span></h1>
                 <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
-                <video src="{{ asset('image/namalive.mp4') }}" loop autoplay muted playsinline></video>
+                <a href="./os" target="_blank"><video src="{{ asset('image/namalive.mp4') }}" loop autoplay muted playsinline></video></a>
                 <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
-                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料でヌク <i class="fas fa-external-link-alt"></i></a>
-                <img src="https://trading-ad.net/a-trade/banner/mocom/Ad_mocom_coupon202102_600x500_A2.jpg" class="wide"></a>
+                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短3分で開始 <i class="fas fa-external-link-alt"></i></a>
+                <a href="./os" target="_blank"><img src="https://trading-ad.net/a-trade/banner/mocom/Ad_mocom_coupon202102_600x500_A2.jpg" class="wide"></a>
             </div>
             
             <!--<div class="big-body-main">-->
