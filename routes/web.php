@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('game1', function () {
-    // return view('gdn.check'); //提出用
-    return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
+    return view('gdn.check'); //提出用
+    // return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
     
     // return view('gdn.tjad'); //獲得用(7) - アダルトライブチャットweb
     // return redirect('https://a-trade.jp/redirect/mocom-lp30?media=G16531'); //モコム - Aトレード
