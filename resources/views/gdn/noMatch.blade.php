@@ -14,7 +14,7 @@
         <!--</header>-->
         
         <div class="big-body">
-            <a href="./os" target="_blank" class="btn-square-shadow"><img src="{{ asset('image/top_cross-2.jpg') }}" class="wide"></a>
+            <a href="./os" target="_blank"><img src="{{ asset('image/top_cross-2.jpg') }}" class="wide"></a>
             <div class="body-top">
                 <h1><span>29歳おっさんが『真剣に』セフレ探してみた結果...</span></h1>
                 <h1><span>出会いを目的とした<br>『ご近所アプリ』が今熱い！</span></h1>
