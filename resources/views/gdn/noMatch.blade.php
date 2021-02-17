@@ -64,7 +64,7 @@
                     <!--<div class="line2"></div>-->
                     <br>
                     <div class="center">
-                        <img src="{{ asset('image/IMG_5895-2.jpg') }}" class="wide">
+                        <!--<img src="{{ asset('image/IMG_5895-2.jpg') }}" class="wide-more">-->
                         <!--<p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>-->
                     </div>
                     <!--<br>-->
@@ -73,6 +73,7 @@
         </div>
         <footer>
             <!--<p>裏セフレ界隈@DW</p>-->
+            <img src="{{ asset('image/IMG_5895-2.jpg') }}" class="wide">
         </footer>
     </body>
 </html>
