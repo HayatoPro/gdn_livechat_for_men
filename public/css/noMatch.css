@@ -8,17 +8,31 @@ img {
   width: 80%;
 }
 
+.small-pic {
+  width: 50%;
+}
+
 /*ボタン*/
 .btn-square-shadow {
 display: inline-block;
 padding: 0.5em 1em;
 text-decoration: none;
-background: red;/*ボタン色*/
+background: #0033FF;/*ボタン色*/
 color: #FFF;
 border-bottom: solid 4px #627295;
 border-radius: 3px;
 font-weight: bold;
 margin-bottom: 1em;
+}
+
+.button_below_h1 {
+  margin-top: -1.5em;
+}
+
+.button_below_p {
+  font-weight: bold;
+  text-align: center;
+  margin-top: -1em;
 }
 
 /*ヘッダー*/
@@ -34,7 +48,7 @@ header p {
 
 /*big-body*/
 .big-body {
-  background-color: grey;
+  background-color: pink;
 }
 
 /*big-body-main*/
@@ -149,10 +163,20 @@ footer p {
 
 .center {
   text-align: center;
+  margin: 0 auto;
+}
+
+.center p {
+    text-align: left;
 }
 
 .body-main-3 .red {
   color: red;
   font-weight: bold;
   border-bottom: 2px solid red;
+}
+
+.line2 {
+    border-bottom: 2px solid grey;
+    padding-bottom: 2em;
 }

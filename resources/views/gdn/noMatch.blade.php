@@ -4,65 +4,75 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>裏垢女子まとめ@5ch</title>
+        <title>裏セフレ界隈@DW</title>
         <link href="{{ secure_asset('css/noMatch.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <header>
-            <p>裏垢女子まとめ@5ch</p>
-        </header>
+        <!--<header>-->
+        <!--    <p>裏垢女子まとめ@5ch</p>-->
+        <!--</header>-->
         
         <div class="big-body">
-            <img src="{{ asset('image/lp_adult_headline.jpg') }}" class="wide">
+            <img src="{{ asset('image/top_cross-2.jpg') }}" class="wide">
             <div class="body-top">
-                <h1><span>AVに飽きた人必見!!!<br>ガチ素人の『裏配信』が今熱い！</span></h1>
-                <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
-                <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
-                <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                <h1><span>29歳おっさんが『真剣に』セフレ探してみた結果...</span></h1>
+                <h1><span>出会いを目的とした<br>『ご近所アプリ』が今熱い！</span></h1>
+                <a href="./os" target="_blank"><img src="{{ asset('image/IMG_1667-2.jpg') }}"></a>
+                <!--<h1><span>某有名アダルト掲示板のアプリ版</span></h1>-->
+                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料はアプリ内から <i class="fas fa-external-link-alt"></i></a>
+                <h1 class="button_below_h1"><span>簡単に言うと、タップルの『気軽な出会い ver』</span></h1>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>インスタ・ニコ生・TikTokで垢BANされた裏垢女子多数！<br>刺激強すぎる裏配信の実態とは..!?</h1>
-                    <p>2020年09月14日20:03</p>
+                    <h1>タップル・Tinder・ペアーズで垢BANされた激しめ女子多数！<br>気軽な出会いを目的とした新時代マッチングアプリとは..!?</h1>
+                    <p>2021年02月18日20:03</p>
                 </div>
                 
                 <div class="body-main-2">
-                    <img src="{{ asset('image/uraLive_2.JPG') }}">
+                    <img src="{{ asset('image/254d32e65b89ca166b5eb795e80e0b9c-2.jpg') }}" class="small-pic">
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>指入れ・おもちゃ・見せ合い・鑑賞 etc...<br>ガチ裏垢女子が見つかるライブ配信</h3>
-                    <p>有名SNSを垢BANされただけあって、刺激強い配信が多数。Pornhubやdmm(Fanza)が飽きた人、リアルな素人のエロ動画を見たい人は必見。<br><br>オナニーだけでも種類は豊富。指入れやクリトリス、おもちゃプレイは勿論、個人配信で繋がれば<span class="red">あなたがオナニー指示を出してもOK</span>。</p>
-                    <img src="{{ asset('image/uraLive_3.JPG') }}">
+                    <h3>タイプ的には『メンヘラ量産型』が多い!?</h3>
+                    <p>某マッチングアプリを垢BANされて流れてきた裏垢女子が多数。特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>最近は特にメンヘラ量産型が多い。なので、すぐに...。</p>
+                    <!--<img src="{{ asset('image/lp_ad_3.JPG') }}">-->
+                    <!--<br>-->
+                    <br>
+                    <h3>Twitter IDが載っていて、即アポも可能..!?</h3>
+                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、<span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。オフ会でなにをするかは言わずもがな。</p>
+                    <!--<img src="{{ asset('image/uraLive_1.JPG') }}">-->
+                    <!--<br>-->
+                    <br>
+                    <h3>データフォルダに要注意..!?<br>利用男性によるハメ撮り集！</h3>
+                    <p>男性掲示板には利用ユーザーから結果の報告も。<br>※盗撮は犯罪ですので、ちゃんと許可を得てからハメ撮りしましょう。</p>
+                    <img src="{{ asset('image/lp_ad_4.JPG') }}">
                     <br>
                     <br>
-                    <h3>性欲強め女子多数なので<br>SNS交換して実際にオフパコするケースも..!?</h3>
-                    <p>中にはTwitterIDなどを公開してるライバーさんもおり、<span class="red">定期的にオフ会を開催</span>しているケースもあります。<br><br>オフ会でなにをするかは言わずもがな。</p>
-                    <br>
-                    <h3>ライブ配信を保存してると...<br>データフォルダに要注意！</h3>
-                    <p>アーカイブ機能は無いので、貴重なライブ配信は保存して見逃すな。</p>
-                    <img src="{{ asset('image/uraLive_4.JPG') }}">
-                    <br>
-                    <br>
-                    <h3>運が良ければ<br>ガチ素人の生ハメ配信観れるかも..!?</h3>
-                    <p>稀にある生ハメ配信。この配信はなんと<span class="red">同時視聴者数6000人以上</span>を記録。</p>
-                    <img src="{{ asset('image/uraLive_5.jpg') }}">
-                    <br>
-                    <br>
+                    <!--<h3>運が良ければ<br>欅坂46似の清楚系とも出会えるかも..!?</h3>-->
+                    <!--<p>基本的には性欲強めなギャルやお姉さん系が多いが、中には清楚系も。清楚系は競争率高めなので、見つけたらすぐ連絡しよう。</p>-->
+                    <!--<img src="{{ asset('image/lp_ad_5.JPG') }}">-->
+                    <!--<br>-->
+                    <!--<br>-->
                     <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
                     <div class="center">
-                        <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料はアプリ内から <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>-->
+                    <p class="button_below_p">最短30秒で即アポ..!?</p>
+                    <!--<div class="line2"></div>-->
+                    <br>
+                    <div class="center">
+                        <img src="{{ asset('image/IMG_5895-2.jpg') }}" class="wide">
+                        <!--<p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>-->
+                    </div>
                     <br>
                 </div>
             </div>
         </div>
         <footer>
-            <p>裏垢女子まとめ@5ch</p>
+            <p>裏セフレ界隈@DW</p>
         </footer>
     </body>
 </html>
