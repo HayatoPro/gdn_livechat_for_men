@@ -21,12 +21,12 @@
                 <a href="./os" target="_blank"><img src="{{ asset('image/IMG_1667-2.jpg') }}"></a>
                 <!--<h1><span>某有名アダルト掲示板のアプリ版</span></h1>-->
                 <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料はアプリ内から <i class="fas fa-external-link-alt"></i></a>
-                <h1 class="button_below_h1"><span>簡単に言うと、タップルの『気軽な出会い ver』</span></h1>
+                <h1 class="button_below_h1"><span>簡単に言うと、<br>タップルの『気軽な出会い ver』</span></h1>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>タップル・Tinderで垢BANされた激しめ女子多数！<br>気軽な出会いを目的とした<br>新時代マッチングアプリとは..!?</h1>
+                    <h1>気軽な出会いを目的とした<br>新マッチングアプリとは..!?</h1>
                     <p>2021年02月18日20:03</p>
                 </div>
                 
@@ -35,12 +35,12 @@
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>タイプ的には『メンヘラ量産型』が多い!?</h3>
+                    <h3>タイプ的には<br>『メンヘラ量産型』が多い!?</h3>
                     <p>某マッチングアプリを垢BANされて流れてきた裏垢女子が多数。<br>特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>最近は特にメンヘラ量産型が多い。なので、すぐに...。</p>
                     <!--<img src="{{ asset('image/lp_ad_3.JPG') }}">-->
                     <!--<br>-->
                     <!--<br>-->
-                    <h3>Twitter IDが載っていて、即アポも可能..!?</h3>
+                    <h3>Twitter IDが載っていて、<br>即アポも可能..!?</h3>
                     <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、<br><span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。<br>オフ会でなにをするかは言わずもがな。</p>
                     <!--<img src="{{ asset('image/uraLive_1.JPG') }}">-->
                     <!--<br>-->
@@ -55,7 +55,7 @@
                     <!--<img src="{{ asset('image/lp_ad_5.JPG') }}">-->
                     <!--<br>-->
                     <!--<br>-->
-                    <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
+                    <h3>いつアプリ規制されるか分からない</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>ので、<br>まずはインストールだけでもオススメです。</p>
                     <div class="center">
                         <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料はアプリ内から <i class="fas fa-external-link-alt"></i></a>
@@ -72,7 +72,7 @@
             </div>
         </div>
         <footer>
-            <p>裏セフレ界隈@DW</p>
+            <!--<p>裏セフレ界隈@DW</p>-->
         </footer>
     </body>
 </html>
