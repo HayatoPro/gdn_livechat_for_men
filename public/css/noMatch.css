@@ -1,6 +1,6 @@
 /*全体*/
 body {
-  background-color: black;
+  background-color: white;
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 }
 
@@ -148,12 +148,12 @@ header p {
 
 /*フッター*/
 footer {
-  background-color: black;
+  background-color: white;
   text-align: center;
 }
 
 footer p {
-  color: white;
+  color: black;
   font-weight: bold;
 }
 
