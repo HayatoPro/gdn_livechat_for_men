@@ -1,6 +1,6 @@
 /*全体*/
 body {
-  background-color: white;
+  background-color: black;
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 }
 
@@ -8,16 +8,12 @@ img {
   width: 80%;
 }
 
-.small-pic {
-  width: 50%;
-}
-
 /*ボタン*/
 .btn-square-shadow {
 display: inline-block;
 padding: 0.5em 1em;
 text-decoration: none;
-background: #0033FF;/*ボタン色*/
+background: blue;/*ボタン色*/
 color: #FFF;
 border-bottom: solid 4px #627295;
 border-radius: 3px;
@@ -48,7 +44,7 @@ header p {
 
 /*big-body*/
 .big-body {
-  background-color: pink;
+  background-color: white;
 }
 
 /*big-body-main*/
@@ -148,12 +144,12 @@ header p {
 
 /*フッター*/
 footer {
-  background-color: white;
+  background-color: black;
   text-align: center;
 }
 
 footer p {
-  color: black;
+  color: white;
   font-weight: bold;
 }
 
