@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app1', function () {
-    // return view('gdn.check'); //提出用
-    return view('gdn.noMatch'); //獲得用(1)
+    return view('gdn.check'); //提出用
+    // return view('gdn.noMatch'); //獲得用(1)
     
     // return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
     
