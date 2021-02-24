@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('app1', function () {
     return view('gdn.check'); //提出用
-    // return view('gdn.noMatch'); //獲得用(1)
+    // return view('gdn.twadult'); //TalkWithアダルトLP
     
+    // return view('gdn.noMatch'); //獲得用(1)
     // return redirect('https://a-trade.jp/redirect/ikukuru?media=G16531'); //イククル - Aトレード
     
     // return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
@@ -43,8 +44,9 @@ Route::get('live', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('gdn.noMatch'); //獲得用(1)
+    return view('gdn.twadult'); //TalkWithアダルトLP
     
+    // return view('gdn.noMatch'); //獲得用(1)
     // return redirect('https://a-trade.jp/redirect/ikukuru?media=G16531'); //イククル - Aトレード
     
     // return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
