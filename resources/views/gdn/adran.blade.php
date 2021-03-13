@@ -17,7 +17,7 @@
         <h3 class="no1">あなたは18歳以上ですか？</h3>
         <div class="button">
             <a href="#" class="btn-square">はい。AppStoreへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
-            <p><i class="fas fa-angle-double-right"></i> 某アダルト掲示板のアプリ版。気軽な出会いを楽しめます。</p>
+            <p><i class="fas fa-angle-double-right"></i> 予告なくアプリ削除されている場合がございます。</p>
         </div>
         <div class="button">
             <a href="#" class="btn-flat-border">いいえ</a>

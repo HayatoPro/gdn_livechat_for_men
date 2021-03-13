@@ -59,5 +59,6 @@ p {
 
 .line {
     border-bottom: 2px solid black;
-    margin: 2em;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }
