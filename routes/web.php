@@ -13,16 +13,14 @@
 // LP獲得用
 Route::get('app1', function () {
     return view('gdn.check'); //提出用
-    // return view('gdn.twadult'); //TalkWithアダルトLP
+    // return view('gdn.adran'); //獲得用 - ランダム表示Preaf
     
+    // return view('gdn.twadult'); //TalkWithアダルトLP
     // return view('gdn.noMatch'); //獲得用(1)
     // return redirect('https://a-trade.jp/redirect/ikukuru?media=G16531'); //イククル - Aトレード
-    
     // return redirect('https://a-trade.jp/redirect/nijikano?media=G16531'); //にじげんカノジョ - Aトレード
-    
     // return view('gdn.tjad'); //獲得用(7) - アダルトライブチャットweb
     // return redirect('https://a-trade.jp/redirect/mocom-lp30?media=G16531'); //モコム - Aトレード
-    
     // return view('gdn.papa'); //獲得用(6) - パパ活
     // return redirect('https://a-trade.jp/redirect/berry?media=G16531'); //ベリー - Aトレード
     // return view('gdn.newPopo'); //獲得用(4)
@@ -44,8 +42,9 @@ Route::get('live', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('gdn.twadult'); //TalkWithアダルトLP
+    return view('gdn.adran'); //獲得用 - ランダム表示Preaf
     
+    // return view('gdn.twadult'); //TalkWithアダルトLP
     // return view('gdn.noMatch'); //獲得用(1)
     // return redirect('https://a-trade.jp/redirect/ikukuru?media=G16531'); //イククル - Aトレード
     
