@@ -16,7 +16,7 @@
         <p>成人向けコンテンツに進みますので<br>18歳未満の方はご遠慮下さい。</p>
         <h3 class="no1">あなたは18歳以上ですか？</h3>
         <div class="button">
-            <a href="#" class="btn-square">はい。AppStoreへ飛びます。</a>
+            <a href="#" class="btn-square">はい。AppStoreへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
             <p><i class="fas fa-angle-double-right"></i> 某アダルト掲示板のアプリ版。気軽な出会いを楽しめます。</p>
         </div>
         <div class="button">
