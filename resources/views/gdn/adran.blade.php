@@ -16,7 +16,7 @@
         <p>成人向けコンテンツに進みますので<br>18歳未満の方はご遠慮下さい。</p>
         <h3 class="no1">あなたは18歳以上ですか？</h3>
         <div class="button">
-            <a href="#" class="btn-square">はい。AppStoreへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
+            <a href="os" class="btn-square">はい。AppStoreへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
             <p><i class="fas fa-angle-double-right"></i> 予告なくアプリ削除されている場合がございます。</p>
         </div>
         <div class="button">
@@ -24,6 +24,6 @@
         </div>
         <div class="line"></div>
         <h3 class="no2">裏投稿も充実...<i class="fas fa-heart"></i></h3>
-        <img src="{{ asset('image/lp_ad_op_2.png') }}"></img>
+        <a href="os"><img src="{{ asset('image/lp_ad_op_2.png') }}"></img></a>
     </body>
 </html>
