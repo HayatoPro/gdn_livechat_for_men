@@ -10,11 +10,11 @@
     </head>
     <body>
         <header>
-            <h1>【無課金】出会い裏アプリ速報</h1>
+            <h3>裏マッチング速報</h3>
         </header>
         <img src="{{ asset('image/lp_ad_op_1.jpg') }}"></img>
         <p>成人向けコンテンツに進みますので<br>18歳未満の方はご遠慮下さい。</p>
-        <h1 class="no1">あなたは18歳以上ですか？</h1>
+        <h3 class="no1">あなたは18歳以上ですか？</h3>
         <div class="button">
             <a href="#" class="btn-square">はい。AppStoreへ飛びます。</a>
             <p><i class="fas fa-angle-double-right"></i> 某アダルト掲示板のアプリ版。気軽な出会いを楽しめます。</p>
@@ -23,7 +23,7 @@
             <a href="#" class="btn-flat-border">いいえ</a>
         </div>
         <div class="line"></div>
-        <h1 class="no2">裏投稿も充実...<i class="fas fa-heart"></i></h1>
+        <h3 class="no2">裏投稿も充実...<i class="fas fa-heart"></i></h3>
         <img src="{{ asset('image/lp_ad_op_2.png') }}"></img>
     </body>
 </html>
