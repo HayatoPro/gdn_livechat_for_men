@@ -10,20 +10,20 @@
     </head>
     <body>
         <header>
-            <h3>裏マッチング速報</h3>
+            <h3>裏LINE速報</h3>
         </header>
         <img src="{{ asset('image/lp_ad_op_1.jpg') }}"></img>
-        <p>成人向けコンテンツに進みますので<br>18歳未満の方はご遠慮下さい。</p>
-        <h3 class="no1">あなたは18歳以上ですか？</h3>
+        <p>成人向けグループに進みますので<br>18歳未満の方はご遠慮下さい。</p>
+        <h3 class="no1">あなたは18歳以上ですか？<br>裏垢出会いに興味ありますか？</h3>
         <div class="button">
-            <a href="os" class="btn-square">はい。AppStoreへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
-            <p><i class="fas fa-angle-double-right"></i> 予告なくアプリ削除されている場合がございます。</p>
+            <a href="os" class="btn-square">はい。LINEへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
+            <p><i class="fas fa-angle-double-right"></i> 予告なく新規募集停止している場合がございます。</p>
         </div>
         <div class="button">
             <a href="#" class="btn-flat-border">いいえ</a>
         </div>
         <div class="line"></div>
-        <h3 class="no2">裏投稿も充実...<i class="fas fa-heart"></i></h3>
-        <a href="os"><img src="{{ asset('image/lp_ad_op_2.png') }}"></img></a>
+        <h3 class="no2">参加女性アルバムも充実<i class="fas fa-heart"></i></h3>
+        <a href="os"><img src="{{ asset('image/album.jpg') }}"></img></a>
     </body>
 </html>
