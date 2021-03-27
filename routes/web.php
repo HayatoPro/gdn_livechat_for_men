@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app1', function () {
-    // return view('gdn.check'); //提出用
-    return view('gdn.adran'); //獲得用 - LINE直友達追加
+    return view('gdn.check'); //提出用
+    // return view('gdn.adran'); //獲得用 - LINE直友達追加
     
     // return view('gdn.twadult'); //TalkWithアダルトLP
     // return view('gdn.noMatch'); //獲得用(1)
